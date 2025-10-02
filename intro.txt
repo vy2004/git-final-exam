@@ -1,5 +1,10 @@
 Giới thiệu cá nhân:
+
 - Hello, this is Nguyễn Quốc Vỹ
+
+- Xin chào, tôi là Nguyễn Quốc Vỹ
+
+Conflict resolved on <02/10/2025>
 - Hiện đang học môn Phát triển phần mềm mã nguồn mở.
 - Sở thích của tôi là đọc sách và chơi thể thao.
 - Tôi mong muốn trở thành một Sĩ quan.
