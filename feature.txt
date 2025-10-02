@@ -1,0 +1,6 @@
+Tính năng mới: Đăng nhập game
+1. Cho phép đăng ký tài khoản
+2. Cho phép đăng nhập
+3. Cho phép chỉnh sửa hồ sơ
+4. Tích hợp xác thực email
+5. Bảo mật bằng mật khẩu mạnh
