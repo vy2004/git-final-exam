@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+- Tôi là Nguyễn Quốc Vỹ, sinh viên khoa CNTT, MSSV 226148.
+- Hiện đang học môn Phát triển phần mềm mã nguồn mở.
+- Sở thích của tôi là đọc sách và chơi thể thao.
+- Tôi mong muốn trở thành một Sĩ quan.
+- Cố gắng học tập để phát triển đất nước.
+
+Sở thích:
+- Đọc sách
+- Chơi bóng đá
+- Nghe nhạc
+
+Kỹ năng:
+- Lập trình C#, Python
+- Làm việc nhóm
+- Giao tiếp
