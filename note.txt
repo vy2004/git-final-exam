@@ -1,0 +1,3 @@
+- Git giúp quản lý mã nguồn dễ dàng
+- Có thể làm việc nhóm hiệu quả hơn
+- Lưu lại lịch sử thay đổi rõ ràng
