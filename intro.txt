@@ -14,3 +14,9 @@ Kỹ năng:
 - Lập trình C#, Python
 - Làm việc nhóm
 - Giao tiếp
+Kế hoạch học tập:
+- Hoàn thành các bài tập Git thầy giao.
+- Nắm vững kiến thức về branch và merge.
+- Học cách giải quyết conflict trong Git.
+- Thực hành GitHub để làm việc nhóm.
+- Chuẩn bị kiến thức cho kỳ thi cuối kỳ.
